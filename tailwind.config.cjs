@@ -1,19 +1,23 @@
 /** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
   content: [
     "./index.html",
-    "./src/**/*.{js,jsx,ts,tsx}",
+    "./src/**/*.{js,ts,jsx,tsx}"
   ],
+  purge: false,
   theme: {
     extend: {
       colors: {
         azulEscuro: "#0A192F",
         azulMedio: "#112240",
-        azulHover: "#64ffda",
-        azulClaro: "#4fc3f7",
-        cinzaClaro: "#ccd6f6",
+        azulClaro: "#233554",
+        azulHover: "#64FFDA",
+        cinzaClaro: "#E6F1FF",
+      },
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"], 
       },
     },
   },
   plugins: [],
-}
+};

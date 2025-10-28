@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+
 body {
-  @apply bg-azulEscuro text-cinzaClaro font-poppins;
+  @apply font-poppins bg-azulEscuro text-cinzaClaro;
 }
 
 /* ===== Fundo animado ===== */
