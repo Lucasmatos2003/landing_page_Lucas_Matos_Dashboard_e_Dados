@@ -31,11 +31,11 @@ export default function App() {
 
   const links = {
     analise:
-      "https://wa.me/5561999999999?text=Olá%20Lucas!%20Gostaria%20de%20solicitar%20uma%20análise%20de%20dados.",
+      "https://wa.me/5561982454947?text=Olá%20Lucas!%20Gostaria%20de%20solicitar%20uma%20análise%20de%20dados.",
     dashboard:
-      "https://wa.me/5561999999999?text=Olá%20Lucas!%20Tenho%20interesse%20em%20um%20dashboard%20personalizado.",
+      "https://wa.me/5561982454947?text=Olá%20Lucas!%20Tenho%20interesse%20em%20um%20dashboard%20personalizado.",
     treinamento:
-      "https://wa.me/5561999999999?text=Olá%20Lucas!%20Quero%20saber%20mais%20sobre%20treinamentos%20em%20Power%20BI%20e%20Python.",
+      "https://wa.me/5561982454947?text=Olá%20Lucas!%20Quero%20saber%20mais%20sobre%20treinamentos%20em%20Power%20BI%20e%20Python.",
   };
 
   const fadeInUp = {
@@ -237,7 +237,7 @@ export default function App() {
         <div className="flex justify-center space-x-6">
           <a href="https://linkedin.com/in/lucas-david-carvalho-vieira-de-matos" target="_blank" className="hover:text-azulHover transition">LinkedIn</a>
           <a href="https://github.com/lucasmatos2003" target="_blank" className="hover:text-azulHover transition">GitHub</a>
-          <a href="https://instagram.com" target="_blank" className="hover:text-azulHover transition">Instagram</a>
+          <a href="https://www.instagram.com/lucasmatos.data?igsh=MTBraDk0eXV2MTk3Mg%3D%3D&utm_source=qr" target="_blank" className="hover:text-azulHover transition">Instagram</a>
         </div>
       </footer>
     </div>
