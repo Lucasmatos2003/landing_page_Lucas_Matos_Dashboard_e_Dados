@@ -1,20 +1,45 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌐 Lucas Matos | Dashboards & Dados Landing page profissional para apresentar meus serviços e portfólio em **Análise e Engenharia de Dados**, com dashboards interativos feitos em **Power BI e Python**. Hospedada na **Vercel** e desenvolvida com **React**, **TailwindCSS**, **Framer Motion** e **Vite**. [![Deploy na Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://dashboardslucasmatos.vercel.app/) [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com) --- ## 🚀 Tecnologias - **React.js** – Estrutura principal - **TailwindCSS** – Estilo responsivo - **Framer Motion** – Animações - **Vite** – Build rápido - **Vercel** – Deploy automático --- ## ⚙️ Como rodar localmente
+bash
+git clone https://github.com/lucasmatos2003/lucasmatos-landingpage.git
+cd lucasmatos-landingpage
+npm install
+npm run dev
+Acesse em http://localhost:5173
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🧩 Estrutura
 
-Currently, two official plugins are available:
+src/
+├── App.jsx
+├── index.css
+└── main.jsx
+public/
+└── assets/
+├── dashboard1.png
+├── dashboard2.mp4
+├── dashboard3.png
+└── preview.png
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💼 Portfólio
 
-## Expanding the ESLint configuration
+| Projeto | Descrição |
+|----------|------------|
+| **Consumo de Energia** ⚡ | Dashboard de previsão de consumo e custo — Power BI + Python |
+| **Análise Salarial Global** 💰 | Dashboard interativo com storytelling e UX |
+| **Conectividade Escolar** 🏫 | Monitoramento de rede com indicadores reais |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# landing_page_Lucas_Matos_Dashboard_e_Dados
->>>>>>> 03f542acfb4fca328171b806591640e89f9010c3
+---
+
+## 📫 Autor
+
+**Lucas Matos**  
+Analista de TI • Cientista de Dados em formação  
+📍 Brasília - DF  
+
+🔗 [LinkedIn](https://linkedin.com/in/lucas-david-carvalho-vieira-de-matos)
+
+---
+
+> “Os dados contam histórias — e eu as transformo 
